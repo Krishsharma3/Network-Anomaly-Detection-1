@@ -31,7 +31,7 @@ Machine learning models like Random Forest Classifier (RFC) and XGBoost for dete
 
 The results showed high accuracy in detecting network anomalies. The models successfully identified different types of attacks with significant precision and recall metrics.
 
-## [Dashboard](https://public.tableau.com/views/NetworkAnomalyDetection/OverallAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## [Dashboard](https://https://public.tableau.com/app/profile/naveen.parkash/viz/NetworkAnomalyDetection_17373768238290/OverallAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The project includes a Tableau dashboard to visualize network traffic and anomalies. Key components of the dashboard include:
 
